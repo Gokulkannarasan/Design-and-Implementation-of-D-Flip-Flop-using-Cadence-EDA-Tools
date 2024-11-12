@@ -1,4 +1,4 @@
-## Design-and-Implementation-of-D-Flip-Flop-using-Cadence-EDA-Tools
+## EXP03-Design-and-Implementation-of-D-Flip-Flop-using-Cadence-EDA-Tools
 
 ### Aim:
 To design and implement a D flip-flop circuit using Cadence EDA tools, analyze its functionality and performance, and understand the principles of digital logic design, including schematic creation, layout design, and simulation.
