@@ -1,11 +1,12 @@
-# Design-and-Implementation-of-D-Flip-Flop-using-Cadence-EDA-Tools
-## Aim:
+## Design-and-Implementation-of-D-Flip-Flop-using-Cadence-EDA-Tools
+
+### Aim:
 To design and implement a D flip-flop circuit using Cadence EDA tools, analyze its functionality and performance, and understand the principles of digital logic design, including schematic creation, layout design, and simulation.
 
-## Tools Required:
+### Tools Required:
 - Personal Computer
 - Cadence Virtuoso Software
-## SCHEMATIC SIMULATION:
+### SCHEMATIC SIMULATION:
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
 Commands to get into Cadence:
 
@@ -19,22 +20,22 @@ Commands to get into Cadence:
   - Virtuoso/Command Interpreter Window (CIW)
 Use the Virtuoso window (CIW) for further steps.
 
-## Steps for Schematic Simulation using Cadence:
-### i) Procedure for Creating a New Library:
+### Steps for Schematic Simulation using Cadence:
+#### i) Procedure for Creating a New Library:
   - File → New → Library
   - Name the library (e.g., VLSILAB_EXP_3).
   - Choose "Attach to an existing technology library" and click OK.
   - Attach the library to the technology library gpdk045. Click OK.
     
-### ii) Create Schematic Cell View:
- #### In the Virtuoso (CIW) window:
+#### ii) Create Schematic Cell View:
+ In the Virtuoso (CIW) window:
   - File → New → Cell view
- #### In the new file form, set the following:
+ In the new file form, set the following:
   - Library: Select the library you created (e.g., VLSILAB_EXP_3).
   - Cell: Give an appropriate name for your experiment (e.g., DFlipFlop).
   - View: Select "Schematic."
   - Type: Schematic. Press OK.
- #### Add the required components from the libraries and make the connections.
+ Add the required components from the libraries and make the connections.
   - Go to Instance → Fixed menu or use the shortcut key “I” to place instances.
   - Click Browse, and this will open the library browser.
   - Select components from the gpdk45 library, such as:
@@ -88,7 +89,7 @@ Use the Virtuoso window (CIW) for further steps.
 
 ![WhatsApp Image 2024-10-08 at 16 00 56_bae6e1af](https://github.com/user-attachments/assets/1cb32b56-7dce-42c3-bdb7-9302145bc9b7)
 
-##  For Transient Analysis:
+###  For Transient Analysis:
   - In the simulation setup, choose transient analysis.
   - Specify the time range for the analysis (start and stop time).
   - Run the simulation and observe the output waveforms for the D and Q signals.
@@ -98,6 +99,6 @@ Use the Virtuoso window (CIW) for further steps.
 ![WhatsApp Image 2024-10-08 at 16 00 55_07660460](https://github.com/user-attachments/assets/ec6081b4-15eb-4cd5-829b-cc71e55e1e79)
 
 
-## Results:
+### Results:
   + The experiment successfully demonstrated the design and implementation of a D flip-flop using Cadence EDA tools. 
   + The verification through schematic, symbol creation, and simulation highlighted the practical use of Cadence tools for digital circuit design, with the output correctly reflecting the functionality of the D flip-flop.
