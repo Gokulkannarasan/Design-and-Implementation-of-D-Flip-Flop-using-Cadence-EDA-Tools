@@ -89,7 +89,8 @@ ii) Create Schematic Cell View:
 
 ![WhatsApp Image 2024-10-08 at 16 00 45_548ac1ff](https://github.com/user-attachments/assets/439eead0-09f1-4ac0-831f-9a8c8e583062)
 
-
+<br>
+<br>
 
 ### Analog Simulation by SPECTRE:
 
