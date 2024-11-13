@@ -118,5 +118,4 @@ ii) Create Schematic Cell View:
 
 
 ### Results:
-  + The experiment successfully demonstrated the design and implementation of a D flip-flop using Cadence EDA tools. 
-  + The verification through schematic, symbol creation, and simulation highlighted the practical use of Cadence tools for digital circuit design, with the output correctly reflecting the functionality of the D flip-flop.
+   The experiment successfully demonstrated the design and implementation of a D flip-flop using Cadence EDA tools. The verification through schematic, symbol creation, and simulation highlighted the practical use of Cadence tools for digital circuit design, with the output correctly reflecting the functionality of the D flip-flop.
