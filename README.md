@@ -62,7 +62,6 @@ ii) Create Schematic Cell View:
 
 
 ### iii) Creating the Symbol for Schematic Cell View:
-iii) Creating the Symbol for schematic Cell view
 
    - In the schematic window, execute
        + Create – Cell view – From Cell view
@@ -89,6 +88,8 @@ iii) Creating the Symbol for schematic Cell view
 - Add the required components and make connections, similar to step ii.
 
 ![WhatsApp Image 2024-10-08 at 16 00 45_548ac1ff](https://github.com/user-attachments/assets/439eead0-09f1-4ac0-831f-9a8c8e583062)
+
+
 
 ### Analog Simulation by SPECTRE:
 
