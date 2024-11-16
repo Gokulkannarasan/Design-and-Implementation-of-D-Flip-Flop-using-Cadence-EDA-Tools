@@ -27,9 +27,7 @@ Procedure for Schematic simulation using Cadence
   i)virtuoso/command interpreter window ii)”Whats New…”
 
 2) Close the 2nd window
-   
- <br>
- <br>
+ 
  
 3) Use 1st window i.e virtuoso window(CIW) for further processing.
     - Create a New Library
@@ -63,8 +61,6 @@ ii) Create Schematic Cell View:
        + Make the connections by using fixed narrow wire key
        + Click Check and Save button
 
-
-
 ![WhatsApp Image 2024-10-08 at 16 00 52_01c39360](https://github.com/user-attachments/assets/40a31b50-2d78-42d5-ac18-544c7c52d3a9)
 
 
@@ -95,9 +91,6 @@ ii) Create Schematic Cell View:
 - Add the required components and make connections, similar to step ii.
 
 ![WhatsApp Image 2024-10-08 at 16 00 45_548ac1ff](https://github.com/user-attachments/assets/439eead0-09f1-4ac0-831f-9a8c8e583062)
-
-<br>
-
 
 ### Analog Simulation by SPECTRE:
 
